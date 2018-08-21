@@ -1,1 +1,1 @@
-powershell.exe -command " & {Send-MailMessage -SMTPServer 10.1.71.25 -To tal@para-docs.com -From docPulse@dctm-tlv.co.il -Subject 'docPulse Report Proccess has started' -Body 'sent from TLV'}"
+powershell.exe -command " & {Send-MailMessage -SMTPServer 1.1.11.1 -To tal@para-docs.com -From docPulse@dctm-tlv.co.il -Subject 'docPulse Report Proccess has started' -Body 'sent from TLV'}"

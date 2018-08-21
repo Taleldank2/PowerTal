@@ -1,6 +1,6 @@
 ﻿
 ##################################################################################################################
-#This script sample each CZA documentum server and checks last restart time for the main services of this server.
+#This script sample each documentum server and checks last restart time for the main services of this server.
 #This script can give good indication whether the Sunday's enviroment restarts performed as expected.
 ##################################################################################################################
 
